@@ -1,2 +1,2 @@
 # ProjetoEstudos-ChaleHotel
- Site reservas de hotel
+ Site de reservas de hotel (somente html e css) 
